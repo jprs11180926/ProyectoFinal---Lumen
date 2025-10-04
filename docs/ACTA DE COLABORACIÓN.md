@@ -32,3 +32,14 @@ En caso de no llegar a un acuerdo, decidirá el **líder del grupo** con base en
 ## 🧠 Resolución de Conflictos  
 Los desacuerdos se discutirán de manera respetuosa.  
 Si un miembro no cumple con sus tareas, el grupo informará al docente para acordar una solución conjunta.
+
+---
+
+## ✍️ Firmas
+
+| Integrante | Firma Digital | Fecha |
+|-------------|----------------|--------|
+| **Juan Pablo Restrepo Salazar** | _Firmado digitalmente por Juan Pablo Restrepo S._ | 04/10/2025 |
+| **Yoher Alberto Castaño Morales** | _Firmado digitalmente por Yoher A. Castaño M._ | 04/10/2025 |
+| **Dair Manuel Martínez Arrieta** | _Firmado digitalmente por Dair M. Martínez A._ | 04/10/2025 |
+
