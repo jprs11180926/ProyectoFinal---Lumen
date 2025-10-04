@@ -35,3 +35,13 @@ El cumplimiento de estas tareas garantizará la entrega funcional del proyecto e
 - En caso de imprevistos, se notificará al líder del grupo y se buscará una solución conjunta.  
 - Todos los miembros participarán activamente en las reuniones y revisiones de código.  
 - El incumplimiento de las responsabilidades podrá ser informado al docente para evaluación individual.  
+
+---
+
+## ✍️ Firmas de Compromiso  
+
+| Integrante | Firma Digital | Fecha |
+|-------------|----------------|--------|
+| **Juan Pablo Restrepo Salazar** | _Firmado digitalmente por Juan Pablo Restrepo S._ | 04/10/2025 |
+| **Yoher Alberto Castaño Morales** | _Firmado digitalmente por Yoher A. Castaño M._ | 04/10/2025 |
+| **Dair Manuel Martínez Arrieta** | _Firmado digitalmente por Dair M. Martínez A._ | 04/10/2025 |
