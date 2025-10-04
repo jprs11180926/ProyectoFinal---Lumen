@@ -27,5 +27,8 @@ Lúmen - Cinema Universitario UdeA
 ## Nombre del proyecto y detalles
 
 ### Lúmen - Cinema Universitario
+Lúmen - Cinema Universitario UdeA es el sistema de gestión integral para el espacio cinematográfico de la Universidad de Antioquia. El nombre "Lúmen" proviene del latín y significa "luz", haciendo referencia tanto a la luz del proyector cinematográfico como a la luz del conocimiento que caracteriza a nuestra Alma Mater. 
+
+Desarrollado por estudiantes de Ingeniería Industrial de la UdeA, este programa de consola en Python permite administrar de manera eficiente las reservas de películas, gestionar diferentes tipos de usuarios de la comunidad universitaria y generar reportes administrativos completos. 
 
 
