@@ -91,3 +91,6 @@ Desarrollar un sistema de gestión cinematográfica que permita a la comunidad u
 - Maneja errores de forma elegante con mensajes descriptivos y previene estados inconsistentes
 - Utiliza programación orientada a objetos con código modular y mantenible siguiendo estándares PEP 8
 - Protege la información personal de los usuarios de la comunidad universitaria en todas las operaciones
+
+## Plan de proyecto 
+### Diagrama de Gantt
