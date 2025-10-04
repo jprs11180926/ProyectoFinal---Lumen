@@ -95,6 +95,8 @@ Desarrollar un sistema de gestión cinematográfica que permita a la comunidad u
 ## Plan de proyecto 
 ### Diagrama de Gantt
 
+## 📊 Diagrama de Gantt – Lúmen Cinema Universitario UdeA
+
 <div align="center">
   <img src="https://github.com/jprs11180926/ProyectoFinal---Lumen/blob/main/Diagrama%20Gantt%20L%C3%BAmen.png?raw=true" 
        alt="Diagrama de Gantt – Lúmen Cinema Universitario UdeA (Organizado por semanas)" 
@@ -102,3 +104,16 @@ Desarrollar un sistema de gestión cinematográfica que permita a la comunidad u
   <br>
   <em>Diagrama de Gantt – Lúmen Cinema Universitario UdeA (Organizado por semanas)</em>
 </div>
+
+---
+
+<div align="center">
+
+| Color | Integrante | Rol principal |
+|:------:|:------------|:----------------------------|
+| 🟦 Azul | **Juan Pablo Restrepo Salazar** | Líder de proyecto, facturación y reportes |
+| 🟩 Verde | **Yoher Alberto Castaño Morales** | Interfaz y programación de consola |
+| 🟧 Naranja | **Dair Manuel Martínez Arrieta** | Pruebas, documentación y control de calidad |
+
+</div>
+
