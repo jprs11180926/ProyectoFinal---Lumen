@@ -95,3 +95,10 @@ Desarrollar un sistema de gestión cinematográfica que permita a la comunidad u
 ## Plan de proyecto 
 ### Diagrama de Gantt
 
+<div align="center">
+  <img src="https://github.com/jprs11180926/ProyectoFinal---Lumen/blob/main/Diagrama%20Gantt%20L%C3%BAmen.png?raw=true" 
+       alt="Diagrama de Gantt – Lúmen Cinema Universitario UdeA (Organizado por semanas)" 
+       width="850">
+  <br>
+  <em>Diagrama de Gantt – Lúmen Cinema Universitario UdeA (Organizado por semanas)</em>
+</div>
