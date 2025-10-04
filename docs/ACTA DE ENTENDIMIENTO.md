@@ -33,3 +33,12 @@ Desarrollar un programa en Python para gestionar el Cinema Universitario UdeA, p
 
 ## 🤝 Compromiso Grupal  
 Todos los integrantes acuerdan colaborar activamente, cumplir con las fechas de entrega y mantener una comunicación respetuosa y constante.  
+
+---
+
+| Integrante | Firma Digital | Fecha |
+|-------------|----------------|--------|
+| **Juan Pablo Restrepo Salazar** | _Firmado digitalmente por Juan Pablo Restrepo S._ | 04/10/2025 |
+| **Yoher Alberto Castaño Morales** | _Firmado digitalmente por Yoher A. Castaño M._ | 04/10/2025 |
+| **Dair Manuel Martínez Arrieta** | _Firmado digitalmente por Dair M. Martínez A._ | 04/10/2025 |
+
