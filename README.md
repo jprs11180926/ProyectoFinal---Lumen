@@ -5,8 +5,8 @@ Lúmen - Cinema Universitario UdeA
 
 ### Juan Pablo Restrepo Salazar
 - **Programa académico**: Ingeniería industrial
-- **Habilidades**: Investigación, Escritura, Uso de recursos académicos
-- **Fortalezas**: Trabajo en equipo, Colaboración, Comunicación
+- **Habilidades**: Investigación, escritura, uso de recursos académicos, diseño de material gráfico, habilidad con programas de diseño.
+- **Fortalezas**: Trabajo en equipo, colaboración, comunicación, análisis y pensamiento lógico, organización y planificación.
 
 ### Yoher Alberto Castaño Morales
 - **Programa académico**: Ingeniería industrial
