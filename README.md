@@ -117,3 +117,17 @@ Desarrollar un sistema de gestión cinematográfica que permita a la comunidad u
 
 </div>
 
+### Presupuesto del proyecto
+El presupuesto se basará en el tiempo de práctica de las tres integrantes. Cada integrante le dedicará 2 horas semanales al proyecto. Si se considera que el valor de un SMMLV en Colombia es aproximadamente $1.423.500 COP, para un total de 50 horas de trabajo. El valor económico del tiempo invertido por las integrantes resulta de la siguente manera: 
+
+Horas semanales de las tres integrantes: $2 \times 3 = 6$  horas  semanales
+
+Duración total de semanas: $\frac{50}{6 horas semanales} = 8.3  semanas$
+
+total horas semanales: $6 horas semanales \times 8 semanas = 48  horas  semanales$
+
+total horas al mes: $48 horas semanales \times 4 semanas = 192  horas  al  mes$
+
+Valor hora de práctica: $\frac{1.423.500}{192 horas al mes} = 7,414.06  COP/hora$  
+
+Costo total del proyecto: $50 horas \times 7,414.06 COP/hora = 370.703  COP$ 
