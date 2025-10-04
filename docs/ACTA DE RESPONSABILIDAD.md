@@ -13,28 +13,25 @@ El cumplimiento de estas tareas garantizará la entrega funcional del proyecto e
 
 ---
 
-## 🗂️ Distribución de Responsabilidades  
-
-| **Actividad** | **Descripción** | **Responsable** | **Fecha límite** | **Criterio de evaluación** |
-|----------------|-----------------|-----------------|------------------|-----------------------------|
-| Creación y configuración del repositorio GitHub | Crear el repositorio oficial del proyecto, definir la estructura de carpetas, agregar el archivo README inicial, configurar ramas de trabajo y permisos de colaboración. | Juan Pablo Restrepo Salazar | 5 de octubre de 2025 | Repositorio activo, correctamente estructurado y con documentación inicial. |
-| Diseño del modelo general del programa (boceto y diagramas) | Elaborar el diagrama de clases, flujos de datos y estructura de módulos. Definir los principales métodos y funciones. | Juan Pablo Restrepo Salazar y Yoher Alberto Castaño Morales | 8 de octubre de 2025 | Documentación técnica clara, coherente con los objetivos del programa. |
-| Implementación del módulo de registro de usuarios | Crear el módulo en Python para registrar, consultar y eliminar usuarios. Incluir validaciones básicas y almacenamiento local (archivo o estructura). | Yoher Alberto Castaño Morales | Primera entrega – 10 de octubre de 2025 | Funcionalidad correcta, sin errores, interfaz clara. |
-| Implementación del módulo de gestión de películas y reservas | Programar las funciones para consultar disponibilidad, crear y cancelar reservas, y vincularlas a usuarios registrados. | Yoher Alberto Castaño Morales | Primera entrega – 10 de octubre de 2025 | Código funcional, legible, cumpliendo requisitos del docente. |
-| Pruebas iniciales y control de errores | Realizar pruebas de funcionamiento en los módulos creados. Documentar errores y sugerencias de mejora. | Dair Manuel Martínez Arrieta | Primera entrega – 10 de octubre de 2025 | Registro de pruebas y reporte técnico con observaciones. |
-| Implementación del módulo de facturación y reportes administrativos | Desarrollar el sistema de generación de facturas automáticas y reportes de ingresos y uso del servicio. | Juan Pablo Restrepo Salazar | Segunda entrega – 30 de noviembre de 2025 | Generación correcta de facturas y reportes, resultados precisos. |
-| Integración de módulos y mejora de la interfaz de usuario | Unir los módulos (usuarios, reservas, facturación) en un menú principal. Mejorar la interacción con el usuario y la claridad de los mensajes. | Yoher Alberto Castaño Morales | Segunda entrega – 30 de noviembre de 2025 | Fluidez del programa, menú intuitivo y navegación sin errores. |
-| Documentación técnica y manual de usuario | Redactar la documentación completa: descripción del programa, estructura, instalación, uso, pruebas y resultados. | Dair Manuel Martínez Arrieta | Segunda entrega – 30 de noviembre de 2025 | Documento claro, bien redactado y con capturas o ejemplos. |
-| Pruebas finales y verificación integral del sistema | Realizar pruebas de desempeño, detectar errores finales y garantizar el funcionamiento total del programa. | Dair Manuel Martínez Arrieta y Juan Pablo Restrepo Salazar | Segunda entrega – 30 de noviembre de 2025 | Programa libre de errores críticos y validado por todos los miembros. |
-| Presentación final y entrega al docente | Preparar el archivo ejecutable o script final, la documentación, y presentar el funcionamiento del programa ante el docente. | Todo el equipo | Segunda entrega – 30 de noviembre de 2025 | Entrega completa, presentación organizada y participación equitativa. |
+## 👥 Integrantes  
+- 🟦 **Juan Pablo Restrepo Salazar** – Líder de proyecto y encargado del repositorio GitHub, módulo de facturación y reportes.  
+- 🟩 **Yoher Alberto Castaño Morales** – Encargado de la interfaz de consola, registro de usuarios y reservas.  
+- 🟧 **Dair Manuel Martínez Arrieta** – Encargado de pruebas, documentación y control de calidad.  
 
 ---
 
-## 📜 Compromisos Generales  
-- Cada integrante se compromete a cumplir las tareas asignadas en los plazos establecidos.  
-- En caso de imprevistos, se notificará al líder del grupo y se buscará una solución conjunta.  
-- Todos los miembros participarán activamente en las reuniones y revisiones de código.  
-- El incumplimiento de las responsabilidades podrá ser informado al docente para evaluación individual.  
+## 🗓️ Plan de Trabajo – Distribución de Responsabilidades (8 Semanas)
+
+| **Semana** | **Actividad / Entregable** | **Descripción Detallada** | **Responsable** | **Fecha Límite** | **Criterio de Evaluación** |
+|-------------|-----------------------------|-----------------------------|------------------|------------------|-----------------------------|
+| **1 (4–10 oct)** | Creación del repositorio y actas iniciales | Configurar el repositorio GitHub, estructura del proyecto, y elaborar las actas de entendimiento, colaboración y responsabilidad. | 🟦 Juan Pablo Restrepo Salazar | 10 de octubre | Repositorio funcional, actas completas y bien redactadas. |
+| **2 (11–17 oct)** | Diseño del modelo general del programa | Elaborar diagramas de clases, estructura de módulos, flujo de datos y definir las principales funciones. | 🟦 Juan Pablo Restrepo Salazar / 🟩 Yoher Alberto Castaño Morales | 17 de octubre | Documentación técnica clara y coherente con el objetivo del programa. |
+| **3 (18–24 oct)** | Desarrollo del módulo de registro de usuarios y reservas | Programar funciones de registro, validación de datos, creación y cancelación de reservas. | 🟩 Yoher Alberto Castaño Morales | 24 de octubre | Código funcional, con manejo de errores y estructura limpia. |
+| **4 (25–31 oct)** | Pruebas iniciales y control de errores | Probar los módulos desarrollados, registrar incidencias y sugerir mejoras. | 🟧 Dair Manuel Martínez Arrieta | 31 de octubre | Registro de pruebas y corrección de errores documentados. |
+| **5 (1–7 nov)** | Implementación de facturación y reportes administrativos | Desarrollar el sistema de facturación automática, reportes de ingresos y estadísticas del cine. | 🟦 Juan Pablo Restrepo Salazar | 7 de noviembre | Generación correcta de facturas y reportes precisos. |
+| **6 (8–14 nov)** | Integración de módulos e interfaz de usuario | Unir los módulos (usuarios, reservas, facturación) en un menú principal, mejorando la interacción y usabilidad. | 🟩 Yoher Alberto Castaño Morales | 14 de noviembre | Fluidez del programa, navegación funcional y sin errores críticos. |
+| **7 (15–21 nov)** | Documentación técnica y manual de usuario | Redactar la documentación del software, guía de instalación, uso y resultados de pruebas. | 🟧 Dair Manuel Martínez Arrieta | 21 de noviembre | Documento claro, bien estructurado, con ejemplos y capturas. |
+| **8 (22–30 nov)** | Ajustes finales y entrega del proyecto | Revisión final, pruebas completas, corrección de detalles y entrega total del trabajo. | 🟦🟩🟧 Todo el equipo | 30 de noviembre | Proyecto completo, funcional y bien presentado. |
 
 ---
 
