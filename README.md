@@ -31,6 +31,10 @@ Lúmen - Cinema Universitario UdeA es el sistema de gestión integral para el es
 
 Desarrollado por estudiantes de Ingeniería Industrial de la UdeA, este programa de consola en Python permite administrar de manera eficiente las reservas de películas, gestionar diferentes tipos de usuarios de la comunidad universitaria y generar reportes administrativos completos. 
 
+<div align="center">
+  <img src="https://github.com/jprs11180926/ProyectoFinal---Lumen/blob/main/L%C3%BAmen%201.png?raw=true" alt="Lúmen - Cinema Universitario UdeA" style="width: 65%; max-width: 500px">
+</div>
+
 ## Reporte de visión
 Lúmen - Cinema Universitario UdeA nace como respuesta a la necesidad de la Universidad de Antioquia de ofrecer espacios de entretenimiento cultural accesibles para su comunidad. Este sistema de gestión busca modernizar y automatizar el proceso de reserva y administración del espacio cinematográfico universitario, llevando luz tanto a la pantalla como a la experiencia del usuario. 
 
