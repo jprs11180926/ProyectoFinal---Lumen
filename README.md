@@ -94,3 +94,4 @@ Desarrollar un sistema de gestión cinematográfica que permita a la comunidad u
 
 ## Plan de proyecto 
 ### Diagrama de Gantt
+
