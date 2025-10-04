@@ -38,4 +38,34 @@ Desarrollado por estudiantes de Ingeniería Industrial de la UdeA, este programa
 ## Reporte de visión
 Lúmen - Cinema Universitario UdeA nace como respuesta a la necesidad de la Universidad de Antioquia de ofrecer espacios de entretenimiento cultural accesibles para su comunidad. Este sistema de gestión busca modernizar y automatizar el proceso de reserva y administración del espacio cinematográfico universitario, llevando luz tanto a la pantalla como a la experiencia del usuario. 
 
+### Objetivos del Software
 
+#### Objetivo General
+Desarrollar un sistema de gestión cinematográfica que permita a la comunidad universitaria de la UdeA reservar asientos de manera intuitiva, mientras proporciona a los administradores herramientas analíticas para la toma de decisiones sobre el cinema universitario.
+
+#### Objetivos Específicos
+- Implementar un sistema de registro de usuarios con validaciones robustas que garantice la integridad de los datos de la comunidad UdeA
+- Crear una interfaz de consola amigable que facilite la visualización y selección de los 121 asientos disponibles
+- Automatizar el proceso de facturación con precios diferenciados según el tipo de vinculación universitaria
+- Generar reportes administrativos que permitan analizar el desempeño financiero y operativo del cinema universitario
+- Exportar información relevante en formato CSV para análisis posteriores
+
+### Beneficios
+
+#### Para los Usuarios de la Comunidad UdeA
+- Acceso rápido y sencillo a la cartelera del fin de semana
+- Selección visual e intuitiva de asientos
+- Precios preferenciales según vinculación universitaria
+- Facturación instantánea y clara
+
+#### Para los Administradores del Cinema
+- Reportes en tiempo real sobre ventas e ingresos
+- Estadísticas de uso y preferencias de usuarios
+- Información organizada para toma de decisiones
+- Exportación de datos para análisis avanzados
+
+#### Para la Universidad de Antioquia
+- Fortalecimiento de la oferta cultural institucional
+- Gestión eficiente de recursos del cinema
+- Mayor integración de la comunidad universitaria
+- Proyecto desarrollado por estudiantes que aplica conocimientos de ingeniería
