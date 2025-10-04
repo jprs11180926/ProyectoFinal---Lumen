@@ -69,3 +69,25 @@ Desarrollar un sistema de gestión cinematográfica que permita a la comunidad u
 - Gestión eficiente de recursos del cinema
 - Mayor integración de la comunidad universitaria
 - Proyecto desarrollado por estudiantes que aplica conocimientos de ingeniería
+
+## Especificación de requisitos
+
+### Requisitos funcionales
+- El sistema es capaz de registrar usuarios de la comunidad UdeA con nombre, apellido, documento y tipo de vinculación
+- Valida la entrada correcta de datos, como longitud mínima, formato alfabético y numérico en los campos correspondientes
+- Consulta y muestra la cartelera de películas del fin de semana con disponibilidad de asientos
+- Permite la selección visual de asientos entre los 121 disponibles y gestiona su disponibilidad
+- Calcula automáticamente precios diferenciados según el tipo de vinculación universitaria
+- Genera facturas detalladas con información de la reserva y datos del usuario
+- Genera reportes administrativos con estadísticas de ventas, ingresos y comportamiento de usuarios
+- Exporta datos relevantes a formato CSV para análisis posteriores
+- Permite a los usuarios cancelar reservas activas y liberar los asientos correspondientes
+
+### Requisitos no funcionales
+- El sistema es visualmente amigable al usuario, con interfaz de consola intuitiva y opciones bien estructuradas
+- Responde en menos de 2 segundos para operaciones básicas y muestra los 121 asientos de forma instantánea
+- Es compatible con Python 3.8+ y funciona en Windows, Linux y macOS sin dependencias externas
+- Asegura la seguridad de los datos mediante autenticación administrativa y validación robusta de entradas
+- Maneja errores de forma elegante con mensajes descriptivos y previene estados inconsistentes
+- Utiliza programación orientada a objetos con código modular y mantenible siguiendo estándares PEP 8
+- Protege la información personal de los usuarios de la comunidad universitaria en todas las operaciones
