@@ -16,7 +16,7 @@ Lúmen - Cinema Universitario UdeA
 - **Fortalezas**: Resolución de conflictos, adaptabilidad, organización y planificación.
 
 ### Dair Manuel Martinez Arrieta
-- **Descripción**:
+- **Descripción**: Profesional comprometido y resolutivo. Mi energía positiva y mi habilidad para el trabajo en equipo impulsan cada proyecto, guiado siempre por un principio de mejora continua.
 - **Programa académico**: Ingeniería Industrial.
 - **Habilidades**: Redacción de textos, toma de decisiones.
 - **Fortalezas**: Autonomía, autodisciplina, capacidad de organización y gestión del tiempo.
