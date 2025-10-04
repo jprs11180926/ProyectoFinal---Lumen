@@ -36,6 +36,8 @@ Todos los integrantes acuerdan colaborar activamente, cumplir con las fechas de 
 
 ---
 
+## ✍️ Firmas
+
 | Integrante | Firma Digital | Fecha |
 |-------------|----------------|--------|
 | **Juan Pablo Restrepo Salazar** | _Firmado digitalmente por Juan Pablo Restrepo S._ | 04/10/2025 |
