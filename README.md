@@ -4,7 +4,7 @@ Lúmen - Cinema Universitario UdeA
 ## Integrantes
 
 ### Juan Pablo Restrepo Salazar
-- **Descripción**: Un narrador visual. Mi pasión por el cómic, el cine y la cultura geek se fusiona con mi habilidad para el dibujo y la pintura. En el piano encuentro la banda sonora perfecta para mi creatividad.
+- **Descripción**: Un narrador visual y creador multidisciplinar. Mi pasión por el cómic, el cine y la cultura geek se fusiona con mi dominio del dibujo, la pintura y el diseño gráfico. En el piano encuentro la banda sonora perfecta para darle ritmo y emoción a toda mi creatividad.
 - **Programa académico**: Ingeniería Industrial.
 - **Habilidades**: Investigación, escritura, uso de recursos académicos, diseño de material gráfico, habilidad con programas de diseño.
 - **Fortalezas**: Trabajo en equipo, colaboración, comunicación, análisis y pensamiento lógico, organización y planificación.
