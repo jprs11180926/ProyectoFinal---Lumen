@@ -10,10 +10,10 @@ Lúmen - Cinema Universitario UdeA
 - **Fortalezas**: Trabajo en equipo, colaboración, comunicación, análisis y pensamiento lógico, organización y planificación.
 
 ### Yoher Alberto Castaño Morales
-- **Descripción**:
+- **Descripción**: Un arquitecto de soluciones con calma. Transformo desafíos en oportunidades mediante la escucha activa y la construcción colaborativa, tejiendo redes de comunicación que hacen que los proyectos florezcan naturalmente.
 - **Programa académico**: Ingeniería Industrial
-- **Habilidades**: Programación básica, análisis, asertividad.
-- **Fortalezas**: Resolución de conflictos, adaptabilidad, organización y planificación.
+- **Habilidades**: Comunicación creativa, resolución armónica de problemas, mediación grupal, diseño de consensos.
+- **Fortalezas**: Serenidad operativa, construcción de sinergias, pensamiento integrador.
 
 ### Dair Manuel Martinez Arrieta
 - **Descripción**: Profesional comprometido y resolutivo. Mi energía positiva y mi habilidad para el trabajo en equipo impulsan cada proyecto, guiado siempre por un principio de mejora continua.
