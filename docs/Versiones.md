@@ -1,6 +1,6 @@
 # Plan de Versionado – Lúmen Cinema Universitario UdeA
 
-A continuación se describen los avances del proyecto a lo largo de aproximadamente **un mes y medio (45 días)**. Se detallan las versiones y cambios realizados durante el desarrollo del sistema.
+A continuación, se describen los avances del proyecto desde su inicio hasta la entrega final, indicando las versiones desarrolladas y los cambios realizados en cada una:
 
 ---
 
