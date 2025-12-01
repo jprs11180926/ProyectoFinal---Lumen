@@ -1,162 +1,159 @@
-# Manual de Usuario: Sistema de Cine Lúmen Cinema Universitario UdeA
-
-## 🎬 Descripción del Sistema
-
-Sistema de gestión cinematográfica diseñado para la comunidad universitaria de la Universidad de Antioquia. Este sistema permite la reserva de boletos, gestión de usuarios y administración de funciones de cine de manera eficiente mediante una interfaz de consola.
+# 🎬 **Manual de Usuario**
+## **Sistema de Cine – Lúmen Cinema Universitario UdeA**
 
 ---
 
-## 📋 Reglas del Sistema
+## 📖 **Descripción General**
 
-- **Solo usuarios registrados** pueden realizar reservas
-- **Formato de documento**: 3-15 dígitos numéricos
-- **Nombres y apellidos**: Mínimo 3 caracteres alfabéticos
-- **Asientos**: Máximo la capacidad de la sala por función
-- **Precios diferenciados** según tipo de vinculación
+Este sistema permite a los usuarios registrarse, reservar asientos, consultar y cancelar reservas, así como visualizar la cartelera del fin de semana del Lúmen Cinema Universitario UdeA.  
+Además, incluye un módulo administrativo de uso restringido.
 
 ---
 
-## 🎟️ Instrucciones para el Usuario
+# 🧑‍💼 **1. Registro de Usuario**
 
-### 1. Registrar Usuario
+Para registrarse, el usuario debe ingresar:
 
-**Requisitos:**
-- Nombre y apellido: mínimo 3 caracteres alfabéticos
-- Documento: 3-15 dígitos numéricos
-- Tipo de vinculación: debe coincidir con opciones disponibles
+- **Nombre** (solo letras, mínimo 3 caracteres)
+- **Apellido** (solo letras, mínimo 3 caracteres)
+- **Documento** (entre 3 y 15 dígitos)
+- **Tipo de vínculo**, escrito *exactamente* como aparece y con **Mayúscula inicial obligatoria**  
 
-**Pasos:**
-1. Seleccione opción **1** en el menú principal
-2. Ingrese su **nombre** (solo letras, mínimo 3 caracteres)
-3. Ingrese su **apellido** (solo letras, mínimo 3 caracteres)
-4. Ingrese su **documento** (solo números, 3-15 dígitos)
-5. Seleccione su **tipo de vinculación**
+### Tipos válidos:
+- Estudiante  
+- Docente  
+- Administrativo  
+- Oficial interno  
+- Público externo  
 
-**Tipos de Vinculación y Precios:**
-- 🎓 **Estudiante**: $7,500
-- 👨‍🏫 **Docente**: $10,000
-- 💼 **Administrativo**: $8,500
-- 🏢 **Oficial interno**: $7,000
-- 🌐 **Público externo**: $15,000
-
-### 2. Registrar Reserva
-
-**Prerrequisito:** Debe estar registrado en el sistema
-
-**Pasos:**
-1. Seleccione opción **2** en el menú principal
-2. Ingrese su **número de documento**
-3. Seleccione la película por **número ID**
-4. Ingrese la **cantidad de asientos**
-5. Para cada asiento:
-   - Observe el mapa (O = Libre, X = Ocupado)
-   - Seleccione asiento con formato **LetraNúmero** (Ej: B7, A3)
-
-**El boleto incluye:**
-- Código único de transacción
-- Película, fecha y hora
-- Ubicación de asientos
-- Precio total
-- Información de la sala
-
-### 3. Cancelar Reserva
-*Función en desarrollo - Próximamente disponible*
-
-### 4. Consultar Funciones
-**Pasos:**
-1. Seleccione opción **4** en el menú principal
-2. Vea información completa de:
-   - Total de funciones
-   - Películas en cartelera
-   - Horarios detallados
-   - Disponibilidad de asientos
+Si alguno de estos datos está mal digitado, el sistema mostrará un mensaje de error y no permitirá continuar.
 
 ---
 
-## 🎭 Cartelera Disponible
+# 🎟️ **2. Registrar Reserva**
 
-**Sábado:**
-- 10:00 - Wicked: Por Siempre
-- 13:00 - Avatar: Fuego y Ceniza  
-- 16:00 - Midsommar
+Para reservar una función:
 
-**Domingo:**
-- 10:00 - Eterno resplandor de una mente sin recuerdos
-- 13:00 - Wicked: Por Siempre
+1. Debe estar previamente registrado.  
+2. Debe seleccionar la función **solo digitando el número ID** que aparece en el listado.  
+3. Ingresar cuántos asientos desea reservar.  
+4. Ingresar cada asiento usando el formato **LetraNúmero** (ejemplo: `C7`, `A3`, `K10`).  
 
-**Distribución de Sala:**
-- **Filas:** A hasta K (11 filas)
-- **Asientos por fila:** 11
-- **Capacidad total:** 121 asientos
-- **Mejor visibilidad:** Filas centrales (D, E, F, G)
+Si un asiento está ocupado o no existe, el sistema avisará y pedirá ingresarlo nuevamente.
 
----
+### ✔ La factura muestra:
+- Película  
+- Fecha y hora  
+- Asientos seleccionados  
+- Precio total según tipo de vínculo  
+- **Código único de reserva** (necesario para cancelar)
 
-## 🔧 Panel de Administrador
-
-> ⚠️ **Acceso restringido**
-
-**Credenciales:**
-- **Usuario:** `admin`
-- **Contraseña:** `1234`
-
-**Funciones disponibles:**
-- Ver estadísticas generales
-- Consultar reservas por función  
-- Gestión de reportes
-
-**Acceso:**
-1. Seleccione opción **5** en menú principal
-2. Ingrese credenciales
-3. Navegue por las opciones del panel
+> Si ocurre un error durante la selección, el sistema realiza *rollback* y libera los asientos ya tomados.
 
 ---
 
-## ⚠️ Solución de Problemas
+# 🔍 **3. Consultar Mis Reservas**
 
-### ❌ "Documento inválido"
-**Solución:** Ingrese solo números (3-15 dígitos)
+El usuario ingresa su documento y el sistema muestra:
 
-### ❌ "Error en nombre/apellido"  
-**Solución:** Use solo letras y espacios (mínimo 3 caracteres)
+- Código de reserva  
+- Película  
+- Fecha  
+- Asientos reservados  
 
-### ❌ "Usuario no encontrado"
-**Solución:** Verifique documento o regístrese primero
-
-### ❌ "Asiento ocupado o inválido"
-**Soluciones:**
-- Use formato LetraNúmero (Ej: B7)
-- Verifique mapa de asientos
-- Seleccione asientos marcados con "O"
-
-### ❌ "Cantidad fuera de rango"
-**Solución:** Verifique disponibilidad mostrada
-
-### ❌ "Tipo de vínculo inválido"
-**Solución:** Escriba exactamente un tipo de la lista
+Este código es necesario si desea cancelar la reserva.
 
 ---
 
-## 💡 Recomendaciones
+# ❌ **4. Cancelar Reserva**
 
-1. **Regístrese antes** de hacer reservas
-2. **Consulte funciones** disponibles primero
-3. **Tenga documento a mano** para reservas
-4. **Verifique cuidadosamente** los asientos
-5. **Guarde su boleto** electrónico
+Para cancelar una reserva:
 
----
+1. Ingrese a **“Cancelar Reserva”**  
+2. Digite su documento  
+3. Ingrese el **código de reserva** (consultable en “Mis Reservas”)  
 
-## 🆘 Soporte Técnico
-
-Si experimenta problemas:
-1. Verifique formatos de datos ingresados
-2. Confirme usar versión más reciente
-3. Contacte al área de sistemas del cine si persiste el problema
+El sistema liberará los asientos y eliminará la reserva del registro.
 
 ---
 
-**🎬 ¡Disfrute de su experiencia en Lúmen Cinema! 🎬**
+# 📅 **5. Consultar Funciones**
+
+Muestra la cartelera completa con:
+
+- Número ID de función (para seleccionar)  
+- Día  
+- Hora  
+- Película  
+- Asientos disponibles  
+
+### 🎭 **Cartelera**
+
+**Sábado**
+1. 10:00 — *Wicked: Por Siempre*  
+2. 13:00 — *Avatar: Fuego y Ceniza*  
+3. 16:00 — *Midsommar*
+
+**Domingo**
+4. 10:00 — *Eterno resplandor de una mente sin recuerdos*  
+5. 13:00 — *Wicked: Por Siempre*
+
+> Para seleccionar la película debe ingresar únicamente el **número ID**.
+
+---
+
+# 🪑 **6. Mapa de Sala**
+
+- Filas: **A–K**
+- Columnas: **1–11**
+- Total: **121 asientos**
+- `O` = Disponible  
+- `X` = Ocupado  
+
+La pantalla del cine se ubica frente a la **Fila A**.
+
+---
+
+# 🔧 **7. Panel del Administrador (Opción 6)**
+
+Uso restringido.  
+Credenciales por defecto:
+
+- **Usuario:** `admin`  
+- **Contraseña:** `1234`  
+
+Funciones del administrador:
+
+- Ver lista de usuarios registrados  
+- Ver reservas realizadas  
+- Ver ocupación de la sala por función  
+
+---
+
+# ⚠️ **Solución de Problemas**
+
+| Mensaje | Significado | Solución |
+|--------|-------------|----------|
+| Documento inválido | No cumple 3–15 dígitos | Ingrese un documento válido |
+| Tipo de vínculo inválido | No tiene mayúscula inicial o no existe | Escríbalo exactamente como aparece |
+| Función inválida | No digitó un número válido | Seleccione solo el número ID |
+| Asiento inválido | Formato incorrecto | Use formato LetraNúmero (A5, C8…) |
+| Usuario no encontrado | No está registrado | Complete el registro |
+
+---
+
+# 💡 **Recomendaciones**
+
+- Verifique la cartelera antes de reservar.  
+- Use siempre el formato correcto para asientos.  
+- Conserve su **código de reserva**.  
+- Si no recuerda su código, consulte “Mis Reservas”.
+
+---
+
+# 🎥 **¡Gracias por usar el sistema del Lúmen Cinema Universitario UdeA!**
+
+
 
 
 
